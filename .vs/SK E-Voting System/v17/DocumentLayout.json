@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|e:\\workspaces\\visual_basic\\sk e-voting system\\sk e-voting system\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|solutionrelative:sk e-voting system\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\sk e-voting system\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|solutionrelative:sk e-voting system\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\sk e-voting system\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|solutionrelative:sk e-voting system\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\sk e-voting system\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|solutionrelative:sk e-voting system\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\sk e-voting system\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|solutionrelative:sk e-voting system\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\sk e-voting system\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|solutionrelative:sk e-voting system\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\sk e-voting system\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|solutionrelative:sk e-voting system\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\sk e-voting system\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|solutionrelative:sk e-voting system\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\sk e-voting system\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|solutionrelative:sk e-voting system\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\sk e-voting system\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{810CCC02-E5B1-44F7-864B-BDEE5DC30BDF}|SK E-Voting System\\SK E-Voting System.vbproj|solutionrelative:sk e-voting system\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 148,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form8.vb [Design]",
+              "DocumentMoniker": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form8.vb",
+              "RelativeDocumentMoniker": "SK E-Voting System\\Form8.vb",
+              "ToolTip": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form8.vb [Design]",
+              "RelativeToolTip": "SK E-Voting System\\Form8.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-15T09:20:53.004Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form6.vb [Design]",
+              "DocumentMoniker": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form6.vb",
+              "RelativeDocumentMoniker": "SK E-Voting System\\Form6.vb",
+              "ToolTip": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form6.vb [Design]",
+              "RelativeToolTip": "SK E-Voting System\\Form6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-09T05:50:35.748Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form7.vb [Design]",
+              "DocumentMoniker": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form7.vb",
+              "RelativeDocumentMoniker": "SK E-Voting System\\Form7.vb",
+              "ToolTip": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form7.vb [Design]",
+              "RelativeToolTip": "SK E-Voting System\\Form7.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-09T05:53:13.338Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form9.vb [Design]",
+              "DocumentMoniker": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form9.vb",
+              "RelativeDocumentMoniker": "SK E-Voting System\\Form9.vb",
+              "ToolTip": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form9.vb [Design]",
+              "RelativeToolTip": "SK E-Voting System\\Form9.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-19T12:15:56.957Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form2.vb",
+              "RelativeDocumentMoniker": "SK E-Voting System\\Form2.vb",
+              "ToolTip": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form2.vb [Design]",
+              "RelativeToolTip": "SK E-Voting System\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T10:18:04.593Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form9.vb",
+              "DocumentMoniker": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form9.vb",
+              "RelativeDocumentMoniker": "SK E-Voting System\\Form9.vb",
+              "ToolTip": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form9.vb",
+              "RelativeToolTip": "SK E-Voting System\\Form9.vb",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-15T09:26:20.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form2.vb",
+              "RelativeDocumentMoniker": "SK E-Voting System\\Form2.vb",
+              "ToolTip": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form2.vb",
+              "RelativeToolTip": "SK E-Voting System\\Form2.vb",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwHgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-08T16:28:40.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form8.vb",
+              "DocumentMoniker": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form8.vb",
+              "RelativeDocumentMoniker": "SK E-Voting System\\Form8.vb",
+              "ToolTip": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form8.vb",
+              "RelativeToolTip": "SK E-Voting System\\Form8.vb",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-15T09:37:29.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form6.vb",
+              "DocumentMoniker": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form6.vb",
+              "RelativeDocumentMoniker": "SK E-Voting System\\Form6.vb",
+              "ToolTip": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form6.vb",
+              "RelativeToolTip": "SK E-Voting System\\Form6.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAL0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-09T07:46:18.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form7.vb",
+              "DocumentMoniker": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form7.vb",
+              "RelativeDocumentMoniker": "SK E-Voting System\\Form7.vb",
+              "ToolTip": "E:\\Workspaces\\Visual_Basic\\SK E-Voting System\\SK E-Voting System\\Form7.vb",
+              "RelativeToolTip": "SK E-Voting System\\Form7.vb",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-09T07:46:50.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
